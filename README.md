@@ -10,7 +10,8 @@ This software is free to use for personal, educational purposes.
 
 ## 💾 Release
 
-![Current Release](https://img.shields.io/badge/Version-V1.0.03.26-yellow)
+[![Current Release](https://img.shields.io/badge/Version-V1.0.03.26-yellow)](https://github.com/dvdh1961/Jewels/releases/download/1.0.03.26/Jewels_DVDH1961_ADAMP_V1_0.zip)
+![Downloads](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/dvdh1961/Jewels/main/stats/downloads.json&label=Downloads&query=display_total&color=orange)
 
 ![Commits](https://img.shields.io/github/commits-since/dvdh1961/ADAMP/latest)
 [![Contributors](https://img.shields.io/github/contributors/dvdh1961/ADAMP)](https://github.com/dvdh1961/Jewels/graphs/contributors)
