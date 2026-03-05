@@ -21,6 +21,8 @@ This software is free to use for personal, educational purposes.
 
 Version 1.0.03.26
 
+![Logo](https://github.com/dvdh1961/Jewels/blob/main/Jewels.png)
+
 Dear Retro Fans,
 
 This game is my first in 43 years since the day I bought my ColecoVision / Coleco Adam computer.
